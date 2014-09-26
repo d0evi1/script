@@ -1,0 +1,5 @@
+-my mac configures.
+
+bashrc 
+
+
