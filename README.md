@@ -1,5 +1,13 @@
--my mac configures.
+#my mac configures.
 
-bashrc 
+## .bashrc 
 
+my bashrc
+
+
+## .vimrc
+my vimrc
+
+## max_mem_tool
+get the app's max memory.
 
